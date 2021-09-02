@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,4 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+You should see my CV displayed below. You can also download it from [here](https://t3p.github.io/files/cv.pdf).
+
+
+<object data="https://t3p.github.io/files/cv.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="https://t3p.github.io/files/cv.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://t3p.github.io/files/cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
