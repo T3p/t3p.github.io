@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You should see my CV displayed below. You can also download it from [here](https://t3p.github.io/files/cv.pdf).
+You may see my CV displayed below. You can also download it from [here](https://t3p.github.io/files/cv.pdf).
 
 
 <object data="https://t3p.github.io/files/cv.pdf" type="application/pdf" width="750px" height="750px">
