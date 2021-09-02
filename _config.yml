@@ -86,7 +86,7 @@ author:
   location         :
   employer         : 
   pubmed           :
-  googlescholar    : "https://scholar.google.it/"
+  googlescholar    : "https://scholar.google.it/citations?user=A2WxZlsAAAAJ"
   email            :
   researchgate     :  
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/T3p"
+  github           : "T3p"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
 
 
