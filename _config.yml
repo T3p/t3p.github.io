@@ -115,6 +115,10 @@ author:
   xing             :
   youtube          : 
   wikipedia        :
+  links:
+          - label: "dblp"
+            icon: "https://t3p.github.io/files/dblp.png"
+            url: "https://dblp.uni-trier.de/pid/209/4897.html"
 
 
 # Reading Files
@@ -309,3 +313,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+ 
