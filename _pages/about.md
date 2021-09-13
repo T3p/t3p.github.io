@@ -15,6 +15,6 @@ I was a research intern at **Facebook AI** from September to December 2020, work
 
 ---
 
-### Latest news
+## Latest News!
 
 Our paper "Leveraging Good Representations in Linear Contextual Bandits" was accepted at **ICML 2021**. [Find out more.](https://proceedings.mlr.press/v139/papini21a.html)
