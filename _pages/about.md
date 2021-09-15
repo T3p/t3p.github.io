@@ -14,13 +14,10 @@ I recently got a **PhD** in Information Technology from Politecnico di Milano, I
 I was a research intern at **Facebook AI** from September to December 2020, working with [Matteo Pirotta](https://teopir.github.io/) and [Alessandro Lazaric](https://dblp.org/pid/36/321.html).
 
 <style type="text/css">
-span.ghost {display:none;}
-</style>
-<style type="text/css">
 span.reverse {unicode-bidi: bidi-override; direction: rtl}
 </style>
 
-You can contact me at <span class="reverse">ude.fpu@<span class="ghost">oqewirp</span>inipap.oettam</span>
+You can contact me at <span class="reverse">ap.oettam</span>p<span class="reverse">ude.fpu@ini
 
 ---
 
