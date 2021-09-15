@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a postdoctoral researcher at [Universitat Pompeu Fabra](https://www.upf.edu/web/ai-ml/people), Barcelona, working with [Gergely Neu](http://cs.bme.hu/~gergo/). My main research interest  is **Reinforcement Learning**.
+I'm a postdoctoral researcher at [Universitat Pompeu Fabra](https://www.upf.edu/web/ai-ml), Barcelona, working with [Gergely Neu](http://cs.bme.hu/~gergo/). My main research interest  is **Reinforcement Learning**.
 
 I recently got a **PhD** in Information Technology from Politecnico di Milano, Italy, with a dissertation on "Safe Policy Optimization", advised by [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). You can find my dissertation [here](http://hdl.handle.net/10589/170196). 
 
