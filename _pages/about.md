@@ -17,10 +17,6 @@ I was a research intern at **Facebook AI** from September to December 2020, work
 span.reverse {unicode-bidi: bidi-override; direction: rtl}
 </style>
 
-You can contact me at <span class="reverse">ap.oettam</span>p<span class="reverse">ude.fpu@ini
+You can contact me at <span class="reverse">ap.oettam</span>p<span class="reverse">ude.fpu@ini</span>
 
----
-
-## Latest News!
-
-Our paper "Leveraging Good Representations in Linear Contextual Bandits" was accepted at **ICML 2021**. [Find out more.](https://proceedings.mlr.press/v139/papini21a.html)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Leveraging Good Representations in Linear Contextual Bandits&quot; accepted at <a href="https://twitter.com/hashtag/ICML2021?src=hash&amp;ref_src=twsrc%5Etfw">#ICML2021</a>! <br>Work done during my remote internship at <a href="https://twitter.com/facebookai?ref_src=twsrc%5Etfw">@facebookai</a>. Thanks to my coauthors/mentors also for making this a treasurable experience! <a href="https://twitter.com/teopir?ref_src=twsrc%5Etfw">@teopir</a> <a href="https://twitter.com/alelazaric?ref_src=twsrc%5Etfw">@alelazaric</a> <a href="https://twitter.com/polimi?ref_src=twsrc%5Etfw">@polimi</a><br>Preprint: <a href="https://t.co/rOJ1bQ57K0">https://t.co/rOJ1bQ57K0</a></p>&mdash; Matteo Papini (@papinimat) <a href="https://twitter.com/papinimat/status/1390973961962500100?ref_src=twsrc%5Etfw">May 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
