@@ -4,6 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Conference and journal papers
+
+**Papini, Matteo**, Andrea Tirinzoni, Aldo Pacchiano, Marcello Restelli,
+Alessandro Lazaric, and Matteo Pirotta. 2021. “Reinforcement Learning in
+Linear MDPs: Constant Regret and Representation Selection.” To appear at
+*NeurIPS 2021*.
+
 **Papini, Matteo**, Andrea Tirinzoni, Marcello Restelli, Alessandro
 Lazaric, and Matteo Pirotta. 2021. “Leveraging Good Representations in
 Linear Contextual Bandits.” In *ICML*, 139:8371–80. Proceedings of
@@ -51,3 +58,15 @@ In *NeurIPS*, 5447–59.
 **Papini, Matteo**, Matteo Pirotta, and Marcello Restelli. 2017.
 “Adaptive Batch Size for Safe Policy Gradients.” In *NeurIPS*,
 3591–3600.
+
+# Workshop papers
+
+Alessandro Gianola, Marco Montali, and **Matteo Papini**. 2021. "Automated Reasoning for Reinforcement Learning Agents in Structured Environments." OVERLAY workshop on fOrmal
+		VERification, Logic, Automata and sYnthesis, Padova, Italy.
+
+**Matteo Papini**, Andrea Tirinzoni, Aldo Pacchiano, Marcello Restelli, Alessandro Lazaric, and Matteo Pirotta. 2021. "Reinforcement Learning in Linear MDPs: Constant Regret and Representation Selection." ICML Workshop on Reinforcement Learning Theory (virtual)
+
+**Matteo Papini**, Andrea Battistello, and Marcello Restelli. 2019. "Safe Exploration in Gaussian Policy Gradient." NeurIPS-2019 Workshop on Safety and Robustness in Decision Making, Vancouver, Canada.
+
+**Matteo Papini**, Andrea Battistello, and Marcello Restelli. 2018. "Safely Exploring Policy Gradient." 14th European Workshop on Reinforcement Learning, Lille, France.
+
