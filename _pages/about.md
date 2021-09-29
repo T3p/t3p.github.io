@@ -19,5 +19,6 @@ span.reverse {unicode-bidi: bidi-override; direction: rtl}
 
 You can contact me at <span class="reverse">ap.oettam</span>p<span class="reverse">ude.fpu@ini</span>
 
+### Latest news
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Reinforcement Learning in Linear MDPs: Constant Regret and Representation Selection&quot; accepted at <a href="https://twitter.com/hashtag/NeurIPS2021?src=hash&amp;ref_src=twsrc%5Etfw">#NeurIPS2021</a></p>&mdash; Matteo Papini (@papinimat) <a href="https://twitter.com/papinimat/status/1443131491525988352?ref_src=twsrc%5Etfw">September 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
