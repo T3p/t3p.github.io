@@ -13,8 +13,8 @@ Lipschitz assumption on the log-likelihood. An interesting special case
 e dKT ) regret upper-bound that does not depend
 parameters, K actions, and Lipschitz logits, for which we provide a O(
 on the smallest slope of the sigmoid link function.'
-date: 2022
-venue: 'Neurips 2022'
+date: 2022-09-16
+venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2205.13924'
 ---
 
