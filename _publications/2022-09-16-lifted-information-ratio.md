@@ -18,4 +18,4 @@ venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2205.13924'
 ---
 
-[Preprint][https://arxiv.org/abs/2205.13924]
+[Preprint](https://arxiv.org/abs/2205.13924)
