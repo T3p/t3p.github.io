@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Bio
 I'm a postdoctoral researcher at [Universitat Pompeu Fabra](https://www.upf.edu/web/ai-ml), Barcelona, and a recipient of the scolarship "Ayudas Juan de la Cierva-Formación 2021".
 
 I obtained my **PhD** in Information Technology from **Politecnico di Milano**, Italy, with a dissertation on "Safe Policy Optimization".
