@@ -13,7 +13,6 @@ I obtained my **PhD** in Information Technology from **Politecnico di Milano**, 
 
 In 2020 I worked as a research intern for **Facebook AI** (now Meta).
 
----
 ### Things you can do
 * Check out [my works](https://scholar.google.it/citations?user=A2WxZlsAAAAJ).
 
@@ -21,7 +20,6 @@ In 2020 I worked as a research intern for **Facebook AI** (now Meta).
 
 * Contact me at *firstname dot lastname at upf dot edu*
 
----
 ### Latest news
 * I'm co-organizing the 2023 edition of the [Reinforcement Learning Summer School](https://rlsummerschool.com/) in Barcelona!
 * "Online Learning with Off-Policy Feedback", with G. Gabbianelli and G. Neu, accepted at **ALT 2023**. See you in Singapore!
