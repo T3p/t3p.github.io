@@ -7,18 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a postdoctoral researcher at [Universitat Pompeu Fabra](https://www.upf.edu/web/ai-ml), Barcelona, working with [Gergely Neu](http://cs.bme.hu/~gergo/). My main research interest  is **Reinforcement Learning**.
+I'm a postdoctoral researcher at [Universitat Pompeu Fabra](https://www.upf.edu/web/ai-ml), Barcelona, and a recipient of the scolarship "Ayudas Juan de la Cierva-Formación 2021".
 
-I recently got a **PhD** in Information Technology from **Politecnico di Milano**, Italy, with a dissertation on "Safe Policy Optimization", advised by [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). You can find my dissertation [here](http://hdl.handle.net/10589/170196). 
+Download my cv [here]({{ site.baseurl}}/files/cv.pdf) (last updated on Jan 30 2023).
 
-I was a research intern at **Facebook AI** from September to December 2020, working with [Matteo Pirotta](https://teopir.github.io/) and [Alessandro Lazaric](https://dblp.org/pid/36/321.html).
+I obtained my **PhD** in Information Technology from **Politecnico di Milano**, Italy, with a dissertation on "Safe Policy Optimization".
 
-<style type="text/css">
-span.reverse {unicode-bidi: bidi-override; direction: rtl}
-</style>
+In 2020 I worked as a research intern for **Facebook AI** (now Meta).
 
-You can contact me at <span class="reverse">ap.oettam</span>p<span class="reverse">ude.fpu@ini</span>
+My address is firstname dot lastname at upf dot edu. 
 
 ### Latest news
+* I'm co-organizing the 2023 edition of the [Reinforcement Learning Summer School](https://rlsummerschool.com/)
 * "Online Learning with Off-Policy Feedback", with G. Gabbianelli and G. Neu, accepted at ALT 2023. See you in Singapore!
 
