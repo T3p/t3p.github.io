@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-##Applications to RLSS 2023 are open until Mar 27! All info [here](https://rlsummerschool.com/application/)
+## Applications to RLSS 2023 are open until Mar 27! All info [here](https://rlsummerschool.com/application/)
 
 I'm a postdoctoral researcher at [Universitat Pompeu Fabra](https://www.upf.edu/web/ai-ml), Barcelona, and a recipient of the scolarship "Ayudas Juan de la Cierva-Formación 2021".
 
