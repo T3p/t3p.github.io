@@ -8,22 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-## Applications to RLSS 2023 are open until Mar 27! All info [here](https://rlsummerschool.com/application/)
+I'm an assistant professor at [Politecnico di Milano](https://www.polimi.it/) in Milan, Italy. 
 
-I'm a postdoctoral researcher at [Universitat Pompeu Fabra](https://www.upf.edu/web/ai-ml), Barcelona, and a recipient of the scolarship "Ayudas Juan de la Cierva-Formación 2021".
+My research focus is **reinforcement learning**.
 
-I obtained my **PhD** in Information Technology from **Politecnico di Milano**, Italy, with a dissertation on "Safe Policy Optimization".
+Previously, I was a postdoctoral researcher in the AI&ML group of [UPF](https://www.upf.edu/web/ai-ml), in Barcelona.
 
-In 2020 I worked as a research intern for **Facebook AI** (now Meta).
+There, I co-organized [RLSS 2023](https://rlsummerschool.com/), a reinforcement learning summer school.
+
 
 ### Things you can do
 * Check out [my works](https://scholar.google.it/citations?user=A2WxZlsAAAAJ).
 
-* Download my [CV]({{ site.baseurl}}/files/cv.pdf) (last updated on Jan 30 2023).
+* Download my [CV]({{ site.baseurl}}/files/cv.pdf) (not up to date!).
 
-* Contact me at *firstname dot lastname at upf dot edu*
+* Contact me at *firstname dot lastname at polimi dot it*
 
 ### Latest news
-* I'm co-organizing the 2023 edition of the [Reinforcement Learning Summer School](https://rlsummerschool.com/) in Barcelona!
-* "Online Learning with Off-Policy Feedback", with G. Gabbianelli and G. Neu, accepted at **ALT 2023**. See you in Singapore!
-
+* Videos of many RLSS 2023 lectures are freely available [on youtube](https://t.co/oSViqWwj6S)!
