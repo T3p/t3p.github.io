@@ -4,7 +4,6 @@ title: "New Papers"
 excerpt: "Here are papers I'm presenting soon"
 author_profile: true
 redirect_from: 
-  - "/newpapers/"
   - "/newpapers.html"
 ---
 
