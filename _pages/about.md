@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor at [Politecnico di Milano](https://www.polimi.it/) in Milan, Italy. 
+I'm an **assistant professor at Politecnico di Milano**, Milan, Italy, in the [Artificial Intelligence and Robotics Lab](https://rl.airlab.deib.polimi.it/).
 
 My research focus is **reinforcement learning**.
 
@@ -18,11 +18,11 @@ There, I co-organized [RLSS 2023](https://rlsummerschool.com/), a reinforcement 
 
 
 ### Things you can do
-* Check out [my works](https://scholar.google.it/citations?user=A2WxZlsAAAAJ).
 
-* Download my [CV]({{ site.baseurl}}/files/cv.pdf) (not up to date!).
+* Download my [CV]({{ site.baseurl}}/files/cv.pdf) (last updated on 8th September 2023).
 
 * Contact me at *firstname dot lastname at polimi dot it*
 
 ### Latest news
+* I will be at [EWRL 16](https://ewrl.wordpress.com/) in Brussels from 13th to 17th September
 * Videos of many RLSS 2023 lectures are freely available [on youtube](https://t.co/oSViqWwj6S)!
