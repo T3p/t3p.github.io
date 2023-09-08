@@ -18,11 +18,12 @@ There, I co-organized [RLSS 2023](https://rlsummerschool.com/), a reinforcement 
 
 
 ### Things you can do
+* Check out [my work](https://scholar.google.it/citations?user=A2WxZlsAAAAJ&hl=en)
 
 * Download my [CV]({{ site.baseurl}}/files/cv.pdf) (last updated on 8th September 2023).
 
 * Contact me at *firstname dot lastname at polimi dot it*
 
 ### Latest news
-* I will be at [EWRL 16](https://ewrl.wordpress.com/) in Brussels from 13th to 17th September
-* Videos of many RLSS 2023 lectures are freely available [on youtube](https://t.co/oSViqWwj6S)!
+* I will be at [EWRL 16](https://ewrl.wordpress.com/) in Brussels from 13th to 17th September with [two papers]({{site.baseurl}}/newpapers)
+* Videos of many RLSS 2023 lectures are freely available [on youtube](https://t.co/oSViqWwj6S)
