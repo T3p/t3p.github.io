@@ -26,5 +26,5 @@ There, I co-organized [RLSS 2023](https://rlsummerschool.com/), a reinforcement 
 
 ### Latest news
 * I'm proposing [master theses](https://rl.airlab.deib.polimi.it/wp-content/uploads/2023/09/slides.pdf) on Reinforcement Learning at Polimi
-* I will be at [EWRL 16](https://ewrl.wordpress.com/) in Brussels from 13th to 17th September with [two papers]({{site.baseurl}}/newpapers)
+* I will be in Brussels for [EWRL 16](https://ewrl.wordpress.com/) from 14th to 16th September, with [two papers]({{site.baseurl}}/newpapers)
 * Videos of many RLSS 2023 lectures are freely available [on youtube](https://t.co/oSViqWwj6S)
