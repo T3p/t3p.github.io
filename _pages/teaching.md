@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching at Politecnico di Milano"
 excerpt: "Teaching material and more"
 author_profile: true
 redirect_from: 
