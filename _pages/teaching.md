@@ -11,3 +11,5 @@ redirect_from:
 
 ## Foundations of Artificial Intelligence (Teaching Assistant)
 * [Exercises]({{ site.baseurl }}/files/FAI_exercises.pdf)
+* In-person only
+* Recordings of previous years' excercise sessions are available
