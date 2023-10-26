@@ -10,6 +10,7 @@ redirect_from:
 # First Semester 2023/2024
 
 ## Foundations of Artificial Intelligence (Teaching Assistant)
+* [Feedback form](https://forms.gle/cXdhh4VFFVeyHWo9A)
 * [Exercises (pdf)]({{ site.baseurl }}/files/FAI_exercises.pdf)
 * [Exam from 2022 with RL exercise]({{ site.baseurl  }}/files/FAI0822.pdf)
 * [More RL exercises]({{ site.baseurl  }}/files/ex_q.pdf) by Alberto
