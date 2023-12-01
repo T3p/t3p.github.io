@@ -2,6 +2,5 @@
 main:
    - title: "Teaching"
      url: /teaching/
-
-  - title: "Events"
+   - title: "Events"
     url: /ellisfest/
