@@ -2,7 +2,7 @@
 permalink: /ellisfest/
 title: " ELLIS Milan: Decentralized Pre-NeurIPS Fest 2023"
 excerpt: "List of posters"
-author_profile: true
+author_profile: false
 redirect_from: 
   - "/ellisfest.html"
 ---
