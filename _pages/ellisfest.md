@@ -9,7 +9,7 @@ redirect_from:
 
 # Monday 4th December 2023, 4-7pm, galleria AS, Bocconi university, via Roentgen 1, Milan
 
-# Organized by the [ELLIS unit in Milan](https://ellis.eu/units/milan)
+# Organized by the [ELLIS Unit Milan](https://www.ellismilan.eu/)
 
 ## List of Posters:
 
