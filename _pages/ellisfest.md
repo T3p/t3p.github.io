@@ -7,7 +7,7 @@ redirect_from:
   - "/ellisfest.html"
 ---
 
-### Monday 4th December 2023, 4-7pm, galleria AS, Bocconi university, via Roentgen 1, Milan
+### Monday 4th December 2023, 4-7pm, galleria AS, Bocconi University, via Roentgen 1, Milan
 
 ### Organized by the [ELLIS Unit Milan](https://www.ellismilan.eu/)
 
