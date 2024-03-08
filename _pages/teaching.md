@@ -7,13 +7,13 @@ redirect_from:
   - "/teaching.html"
 ---
 
-# First Semester 2023/2024
+# Second Semester 2023/2024
 
-## Foundations of Artificial Intelligence (Teaching Assistant)
-* [Feedback form](https://forms.gle/cXdhh4VFFVeyHWo9A)
-* The TA for the second half of the course is [Prof. Metelli](https://albertometelli.github.io/)
-* [Exercises (pdf)]({{ site.baseurl }}/files/FAI_exercises.pdf)
-* [Exam from 2022 with RL exercise]({{ site.baseurl  }}/files/FAI0822.pdf)
-* [More RL exercises]({{ site.baseurl  }}/files/ex_q.pdf)
-* In-person only
-* Recordings of previous years' excercise sessions are available
+All the material is on [WeBeep](https://webeep.polimi.it/my/).
+All classes are in-person only and recorded.
+
+* Teaching Assistant of **Machine Learning** (097683, prof. Restelli)
+* Esercitatore di **Informatica** (059048, sezione A, prof. Restelli)
+
+# First Semester 2023/2024
+* Teaching Assistant of Foundations of Artificial Intelligence (056889, prof. Lanzi and Amigoni)
