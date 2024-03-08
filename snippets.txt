@@ -1,3 +1,3 @@
 bundle exec jekyll liveserve --incremental
 edit top navigation bar:  _data/navigation.yml
-edit side bar: _includes/author-profile.html    icons can be found on https://fontawesome.com
+edit side bar: _includes/author-profile.html
