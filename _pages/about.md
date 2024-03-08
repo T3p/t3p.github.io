@@ -13,7 +13,6 @@ I'm an **assistant professor at Politecnico di Milano**, Milan, Italy, in the [A
 My research focus is **reinforcement learning**.
 
 Previously, I was a postdoctoral researcher in the AI&ML group of [UPF](https://www.upf.edu/web/ai-ml), in Barcelona.
-
 There, I co-organized [RLSS 2023](https://rlsummerschool.com/), a reinforcement learning summer school (videos of most lectures are available).
 
 
