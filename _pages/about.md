@@ -24,6 +24,7 @@ There, I co-organized [RLSS 2023](https://rlsummerschool.com/), a reinforcement 
 * Contact me at *firstname dot lastname at polimi dot it*
 
 ### Latest news
+* "Online Learning with Off-Policy Feedback in Adversarial MDPs" accepted at IJCAI 2024 
 * New [preprint](https://arxiv.org/abs/2402.15411v1) "Optimistic Information Directed Sampling"
 * New [preprint](https://arxiv.org/abs/2402.03792) "No-Regret Reinforcement Learning in Smooth MDPs"
 * "Offline Primal-Dual Reinforcement Learning for Linear MDPs" accepted at AISTATS 2024 [(preprint)](https://arxiv.org/abs/2305.12944)
