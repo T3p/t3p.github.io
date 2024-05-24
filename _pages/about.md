@@ -24,6 +24,7 @@ There, I co-organized [RLSS 2023](https://rlsummerschool.com/), a reinforcement 
 * Contact me at *firstname dot lastname at polimi dot it*
 
 ### Latest news
+* "Policy Gradient with Active Importance Sampling" accepted at Reinforcement Learning Conference [(preprint)](https://arxiv.org/abs/2405.05630)
 * "Optimistic Information Directed Sampling" accepted at COLT 2024 [(preprint)](https://arxiv.org/abs/2402.15411v1) 
 * "Projection by Convolution: Optimal Sample Complexity for RL in Continuous-Space MDPs" accepted at COLT 2024
 * "Learning Optimal Deterministic Policies with Stochastic Policy Gradients" accepted at ICML 2024 [(preprint)](https://arxiv.org/abs/2405.02235) 
