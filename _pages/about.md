@@ -19,7 +19,7 @@ There, I co-organized [RLSS 2023](https://rlsummerschool.com/), a reinforcement 
 ### Things you can do
 * Check out [my work](https://scholar.google.it/citations?user=A2WxZlsAAAAJ&hl=en)
 
-* Download my [CV]({{ site.baseurl}}/files/cv.pdf) (last updated on 24th May 2024).
+* Download my [CV]({{ site.baseurl}}/files/cv.pdf) (last updated on 30th June 2024).
 
 * Contact me at *firstname dot lastname at polimi dot it*
 
