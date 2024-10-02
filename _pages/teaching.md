@@ -7,14 +7,18 @@ redirect_from:
   - "/teaching.html"
 ---
 
-This year, I am working as a teaching assistant for several classes at **Politecnico di Milano**.
+This is my current teaching activity at Politecnico di Milano.
 
-# Second Semester 2023/2024
 All the material is on [WeBeep](https://webeep.polimi.it/my/).
+
 All classes are in-person only and recorded.
 
-* Teaching Assistant of **Machine Learning** (097683, prof. Restelli)
-* Esercitatore di **Informatica** (059048, sezione A, prof. Restelli)
+# First Semester 2024/2025
+* Foundations of Artificial Intelligence (TA) 
 
-# First Semester 2023/2024
-* Teaching Assistant of **Foundations of Artificial Intelligence** (056889, prof. Lanzi and Amigoni)
+# Second Semester 2024/2025
+* Algoritmi e Principi dell'Informatica, Modulo 2 (**Algorithms**), E-P
+* **Machine Learning** (TA), A-P
+
+
+
