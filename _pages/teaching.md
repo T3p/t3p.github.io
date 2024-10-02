@@ -13,12 +13,12 @@ All the material is on [WeBeep](https://webeep.polimi.it/my/).
 
 All classes are in-person only and recorded.
 
-### First Semester 2024/2025
+## First Semester 2024/2025
 * **Foundations of Artificial Intelligence** (TA) 
 
-### Second Semester 2024/2025
-* Algoritmi e Principi dell'Informatica, Modulo 2 (**Algorithms**), E-P
-* **Machine Learning** (TA), A-P
+## Second Semester 2024/2025
+* Algoritmi e Principi dell'Informatica, Modulo 2 (**Algorithms**), scaglione E-P
+* **Machine Learning** (TA), group A-P
 
 
 
