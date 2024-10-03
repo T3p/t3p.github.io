@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an **assistant professor at Politecnico di Milano**, Milan, Italy, in the [Artificial Intelligence and Robotics Lab](https://rl.airlab.deib.polimi.it/), and an Ellis member under the [Ellis Unit in  Milan](https://ellis.eu/units/milan).
+I'm an **assistant professor at Politecnico di Milano**, Milan, Italy, at *Dipartimento di Elettronica, Informazione e Bioingegneria*, and an Ellis member of the [Milan unit](https://ellis.eu/units/milan).
 
 My research focus is **reinforcement learning**.
 
