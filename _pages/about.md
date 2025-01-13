@@ -22,7 +22,7 @@ Previously, I was a postdoctoral researcher in the AI&ML group of [UPF](https://
 ### Things you can do
 * Check out [my work](https://scholar.google.it/citations?user=A2WxZlsAAAAJ&hl=en)
 
-* Download my [CV]({{ site.baseurl}}/files/cv.pdf) (last updated on 26th September 2024).
+* Download my [CV]({{ site.baseurl}}/files/cv.pdf) (last updated on 13th January 2025).
 
 * Contact me at *firstname dot lastname at polimi dot it*
 
