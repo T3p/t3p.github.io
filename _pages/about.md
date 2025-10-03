@@ -24,5 +24,5 @@ Previously I was an RTDA at Politecnico di Milano.
 * Contact me at *firstname dot lastname at unimi dot it* (I still answer to the polimi mail too)
 
 ### Are you a student?
-Check out the [Teaching]({{ site.baseurl}}/teaching/).
+Check the [Teaching]({{ site.baseurl}}/teaching/) page.
 
