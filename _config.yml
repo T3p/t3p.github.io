@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matteo Papini"
 title_separator          : "-"
 name                     : &name "Matteo Papini"
-description              : &description "Assistant Professor at Politecnico di Milano"
+description              : &description "Assistant Professor at University of Milan"
 url                      : https://t3p.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "T3p/t3p.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Matteo Papini"
-  avatar           : "profile.png"
-  bio              : "Assistant Professor at Politecnico di Milano"
+  avatar           : "profile.jpg"
+  bio              : "Assistant Professor at University of Milan"
   location         :
   employer         : 
   pubmed           :
