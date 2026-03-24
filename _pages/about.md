@@ -23,5 +23,6 @@ Previously I was an RTDA at Politecnico di Milano.
 
 * Contact me at *firstname dot lastname at unimi dot it* (I still answer to the polimi mail too)
 
-### Statistical Learning Theory [Slides]({{ site.baseurl}}/files/Fundamentals_of_Statistical_Learning_Theory (22).pdf) page.
+### Fundamentals of Statistical Learning Theory (INSIDE-HEART Spring School – AI)
+[Slides]({{ site.baseurl}}/files/Fundamentals_of_Statistical_Learning_Theory (22).pdf).
 
