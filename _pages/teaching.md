@@ -7,7 +7,12 @@ redirect_from:
   - "/teaching.html"
 ---
 
-This is my current teaching activity at University of Milan.
+This is my current and recent teaching activity at University of Milan.
+
+## First Semester 2026/2027
+
+### Machine Learning (ML, Neural Networks and Deep Learning - Module 1)
+All material is in the course website on [Kiro](https://elearning.unipv.it/)
 
 ## Second Semester 2025/2026
 
@@ -21,9 +26,7 @@ Lecture notes:
 * Discounted Policy Gradient and Actor-Critic: [lecture notes]({{ site.baseurl}}/files/pg2.pdf)
 * Deep RL: [slides]({{ site.baseurl}}/files/drl_handout.pdf) 
 
-## First Semester 2025/2026
 
-### Dati, web e contenuti digitali (A-K). All material on myAriel.
-
-
+## Other Materials
+* Fundamentals of Statistical Learning Theory, INSIDE-HEART Spring School on AI [(slides)]({{ site.baseurl}}/files/Fundamentals_of_Statistical_Learning_Theory (22).pdf)
 
