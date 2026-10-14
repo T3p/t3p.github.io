@@ -16,7 +16,7 @@ My main research line is **Reinforcement Learning**.
 ### Things you can do
 * Check out [my work](https://scholar.google.it/citations?user=A2WxZlsAAAAJ&hl=en)
 
-* Download my [CV]({{ site.baseurl}}/files/cv.pdf) (last updated on October 3 2025).
+* Download my [CV]({{ site.baseurl}}/files/cv.pdf) (last updated on October 14 2026).
 
 * Contact me at *firstname dot lastname at unimi dot it* (I no longer answer to the polimi mail)
 
