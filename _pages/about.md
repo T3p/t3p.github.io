@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **Tenure Track Assistant Professor (RTT) at Università degli Studi di Milano**, Department of Computer Science, Milan, Italy, in the [LAILA](https://sites.google.com/view/lailaunimi) lab.
+I'm a **Tenure Track Assistant Professor (RTT) at Università degli Studi di Milano**, Department of Computer Science, Milan, Italy, in the [LAILA](https://sites.google.com/view/lailaunimi) lab. I teach **Machine Learning** and **Reinforcement Learning**.
 I'm an Ellis member of the [Milan unit](https://ellis.eu/units/milan) and an **ELLIS Scholar** since October 2026.
 
 My main research line is **Reinforcement Learning**.
