@@ -28,5 +28,5 @@ Lecture notes:
 
 
 ## Other Materials
-* Fundamentals of Statistical Learning Theory, INSIDE-HEART Spring School on AI [(slides)]({{ site.baseurl}}/files/Fundamentals_of_Statistical_Learning_Theory (22).pdf)
+* Fundamentals of Statistical Learning Theory, INSIDE-HEART Spring School on AI [(slides)]({{ site.baseurl}}/files/Fundamentals_of_Statistical_Learning_Theory.pdf)
 
